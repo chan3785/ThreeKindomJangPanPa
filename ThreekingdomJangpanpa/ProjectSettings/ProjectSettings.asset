@@ -4,7 +4,7 @@
 PlayerSettings:
   m_ObjectHideFlags: 0
   serializedVersion: 23
-  productGUID: 487485f650e108f408534314ae101121
+  productGUID: a8dfc2f2cf3c68c439d8bd848d460f07
   AndroidProfiler: 0
   AndroidFilterTouchesWhenObscured: 0
   AndroidEnableSustainedPerformanceMode: 0
@@ -13,7 +13,7 @@ PlayerSettings:
   useOnDemandResources: 0
   accelerometerFrequency: 60
   companyName: DefaultCompany
-  productName: "\uC7A5\uD310\uD30C_1003"
+  productName: ThreeKingdomJangpanpa
   defaultCursor: {fileID: 0}
   cursorHotspot: {x: 0, y: 0}
   m_SplashScreenBackgroundColor: {r: 0.12156863, g: 0.12156863, b: 0.1254902, a: 1}
@@ -651,14 +651,14 @@ PlayerSettings:
   apiCompatibilityLevelPerPlatform: {}
   m_RenderingPath: 1
   m_MobileRenderingPath: 1
-  metroPackageName: "\uC7A5\uD310\uD30C_1003"
+  metroPackageName: ThreeKingdomJangpanpa
   metroPackageVersion: 
   metroCertificatePath: 
   metroCertificatePassword: 
   metroCertificateSubject: 
   metroCertificateIssuer: 
   metroCertificateNotAfter: 0000000000000000
-  metroApplicationDescription: "\uC7A5\uD310\uD30C_1003"
+  metroApplicationDescription: ThreeKingdomJangpanpa
   wsaImages: {}
   metroTileShortName: 
   metroTileShowName: 0
